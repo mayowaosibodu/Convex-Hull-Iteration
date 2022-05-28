@@ -6,7 +6,7 @@ The paper describes "Convex Hull Iteration" - a technique to estimate model perf
 
 ```convex_hull_iteration.py``` contains Python code demonstrating the technique and visualizing results.
 
-The code is written in Python3.
+The code is written in Python 3.
 
 Dependencies are in requirements.txt, and can be installed with:
 ```
