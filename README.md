@@ -10,5 +10,3 @@ The code is written in Python3, and dependencies can be found in requirements.tx
 ```
 pip3 install -r requirements.txt
 ```
-
--- requirements --
