@@ -12,3 +12,8 @@ Dependencies are in requirements.txt, and can be installed with:
 ```
 pip3 install -r requirements.txt
 ```
+
+To run the code from a terminal (in the repo directory):
+```
+python3 convex_hull_iteration.py
+```
