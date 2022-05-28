@@ -1,6 +1,6 @@
 # Convex-Hull-Iteration
 
-This repository contains code which accompanies the paper: 
+This repository contains code which accompanies the paper: [Assessing Model Behaviour on Extreme Counterfactuals] (https://www.researchgate.net/publication/360912277_Assessing_Model_Behaviour_on_Extreme_Counterfactuals)
 
 The paper describes "Convex Hull Iteration" - a technique to estimate model performance on extreme counterfactuals.
 
